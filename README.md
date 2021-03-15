@@ -22,7 +22,6 @@ For ths project will we use the followng applications:
 
 ![Wordpress](./images/wordpress_logo.jfif "Wordpress")
 
-![Cryptocurrency Team Image](./images/frontpager.JPG)
 
 ## Idea
 ![Cryptocurrency Team Image](./images/idea.JPG)
