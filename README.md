@@ -12,7 +12,7 @@ For ths project will we use the followng applications:
 |:---:|:---:|:---:|
 | Remix | MetaMask | Ganache |
 
-|  ![Gnosis](./images/gnosis_logo.jfif "Gnosis")|![Uniswap](./images/uniswap_logo.jfif "Uniswap") | ![Collab.Land](./images/collab_land.png "Collab.Land") | ![Snapshot](./images/snapshot.png "Snapshot") |
+| ![Gnosis](./images/gnosis_logo.jfif "Gnosis")| ![Uniswap](./images/uniswap_logo.jfif "Uniswap") | ![Collab.Land](./images/collab_land.png "Collab.Land") | ![Snapshot](./images/snapshot.png "Snapshot") |
 |:---:|:---:|:---:|:---:|
 | Gnosis | Uniswap | Collab.Land |Snapshot |
 
