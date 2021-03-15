@@ -1,6 +1,11 @@
 # Crypto Curious Blockchain Investment Group
 
-The goal of ths repo is to build prototype ER20 and ERC721 compliant tokens for an investment Group. Once the coins are created we will create a liquidty pool on Uniswap.
+
+
+### VISIT OUR WEBSITE FOR MORE INFORMATION
+https://ccbigcrypto.com/
+
+The goal of ths project is to build prototype ERC20 and ERC721 compliant tokens for an Investment Community Group. Once the coins are created we will create a liquidty pool on Uniswap.
 
 For ths project will we use the followng applications:
 | ![Remix](./images/RemixLogo.png "Remix") | ![MetaMask](./images/MetaMaskLogo.png "MetaMask")|![Ganache](./images/GanacheLogo.png "Ganache") | 
@@ -16,9 +21,6 @@ For ths project will we use the followng applications:
 | Discord| Telegram |
 
 ![Wordpress](./images/wordpress_logo.jfif "Wordpress")
-
-### VISIT OUR WEBSITE FOR MORE INFORMATION
-https://ccbigcrypto.com/
 
 ![Cryptocurrency Team Image](./images/frontpager.JPG)
 
