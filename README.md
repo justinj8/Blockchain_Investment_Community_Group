@@ -1,6 +1,6 @@
 # Crypto Curious Blockchain Investment Group
 
-
+![Cryptocurrency Team Image](./images/wesbite_image)
 
 ### VISIT OUR WEBSITE FOR MORE INFORMATION
 https://ccbigcrypto.com/
@@ -29,7 +29,7 @@ For ths project will we use the followng applications:
 
 ## Purpose / Why
 
-![Cryptocurrency Team Image](./images/why.jpg)
+![Cryptocurrency Team Image](./images/why.JPG)
 
 ## Road Map
 
@@ -49,7 +49,7 @@ For ths project will we use the followng applications:
 
 ![Cryptocurrency Team Image](./images/team.png)
 
-## Buy Ouyr Tokens
+## Buy Our Tokens
 
 ![Cryptocurrency Team Image](./images/token_buy.png)
 
