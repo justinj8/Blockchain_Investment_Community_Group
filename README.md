@@ -1,6 +1,6 @@
 # Crypto Curious Blockchain Investment Group
 
-![Cryptocurrency Team Image](./images/wesbite_image)
+![Cryptocurrency Team Image](./images/website_image.png)
 
 ### VISIT OUR WEBSITE FOR MORE INFORMATION
 https://ccbigcrypto.com/
